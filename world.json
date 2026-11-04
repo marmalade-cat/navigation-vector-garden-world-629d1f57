@@ -1,0 +1,111 @@
+{
+  "format": "marmalade-world-design-v2",
+  "region": {
+    "id": "1f3966a9-fc13-45bb-9f24-3666142f7b3f",
+    "ordinal": 4,
+    "name": "Navigation Vector Garden",
+    "kind": "garden",
+    "reason": "Create a focused place to display and compare vector-field visualizations next to models and notes.",
+    "objects": [
+      {
+        "type": "bench",
+        "slot": 0,
+        "label": "Field sketch bench"
+      },
+      {
+        "type": "planter",
+        "slot": 1,
+        "label": "Solar vector planter"
+      },
+      {
+        "type": "planter",
+        "slot": 2,
+        "label": "Stellar vector planter"
+      },
+      {
+        "type": "planter",
+        "slot": 3,
+        "label": "Magnetic vector planter"
+      },
+      {
+        "type": "stone",
+        "slot": 4,
+        "label": "Vector comparison plaque"
+      },
+      {
+        "type": "custom",
+        "slot": 5,
+        "label": "Field visualization orb",
+        "recipe": {
+          "version": 1,
+          "theme": "studio",
+          "parts": [
+            {
+              "shape": "sphere",
+              "position": [
+                0,
+                0.25,
+                0
+              ],
+              "rotation": [
+                0,
+                0,
+                0
+              ],
+              "scale": [
+                0.6,
+                0.6,
+                0.6
+              ],
+              "color": "#e3c57a",
+              "opacity": 1
+            },
+            {
+              "shape": "torus",
+              "position": [
+                0,
+                0.25,
+                0
+              ],
+              "rotation": [
+                0,
+                0,
+                0
+              ],
+              "scale": [
+                0.9,
+                0.1,
+                0.9
+              ],
+              "color": "#8aa6c9",
+              "opacity": 1
+            },
+            {
+              "shape": "cylinder",
+              "position": [
+                0,
+                0.25,
+                0
+              ],
+              "rotation": [
+                0,
+                0,
+                0
+              ],
+              "scale": [
+                0.05,
+                0.5,
+                0.05
+              ],
+              "color": "#5a4b3c",
+              "opacity": 1
+            }
+          ]
+        }
+      }
+    ],
+    "note_id": null,
+    "model": "gpt-5-mini",
+    "created_at": "2026-11-04T07:06:47.310Z"
+  }
+}

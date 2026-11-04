@@ -1,2 +1,5 @@
-# navigation-vector-garden-world-629d1f57
-World design: Navigation Vector Garden · 2026-11-04T07:06:47.345Z [marmalade-project:629d1f57-0be1-4893-9b00-4a1a7030575a]
+# Navigation Vector Garden
+
+Create a focused place to display and compare vector-field visualizations next to models and notes.
+
+This blueprint records a place and objects I built in my local museum. The museum renderer supplies the geometry, walking rules, and supported interactions; this is a data blueprint, not a standalone game or a change to the engine source.
